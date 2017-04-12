@@ -1,0 +1,56 @@
+element.style {
+    width: 100%;
+}
+<style>…</style>
+.w3-row-padding img {
+    margin-bottom: 12px;
+}
+<style>…</style>
+img {
+    margin-bottom: -7px;
+}
+w3.css:32
+img {
+    margin-bottom: -5px;
+}
+w3.css:12
+img {
+    border-style: none;
+}
+w3.css:2
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+Inherited from body
+<style>…</style>
+body, h1 {
+    font-family: "Montserrat", sans-serif;
+}
+w3.css:28
+html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+Inherited from html
+w3.css:28
+html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+w3.css:4
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+w3.css:2
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+w3.css:2
+*, *:before, *:after {
+    box-sizing: inherit;
+}
