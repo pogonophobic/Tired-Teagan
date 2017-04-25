@@ -58,8 +58,11 @@ div.desc {
 }
 </style>
 h1{
+   font-family: "Segoe UI",Arial,sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
   text-transform: uppercase;
-  font-size:35px;
+  text-align: center;
   color:white;
 }
 p{
