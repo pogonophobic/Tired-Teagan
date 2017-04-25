@@ -2,7 +2,6 @@ body{
   background-color: rgb(95,122,95);
   padding: 100px;
 }
-<style>
 h1{
   font-family: "Segoe UI",Arial,sans-serif;
   font-weight: 200;
@@ -55,7 +54,6 @@ div.desc {
     display: table;
     clear: both;
 }
-</style>
 
 
 a{
