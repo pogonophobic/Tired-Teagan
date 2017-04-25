@@ -1,9 +1,19 @@
 body{
-  font-family: "Montserrat", sans-serif;
   background-color: rgb(95,122,95);
   padding: 100px;
 }
 <style>
+h1{
+  font-family: "Montserrat", sans-serif; 
+  text-transform: uppercase;
+  text-align: center;
+}
+p{
+ font-family: "Montserrat", sans-serif; 
+  text-transform: uppercase;
+  text-align: center;
+}
+
 div.gallery {
     border: 1px solid #ccc;
 }
