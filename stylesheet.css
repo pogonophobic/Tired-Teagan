@@ -54,22 +54,8 @@ div.desc {
     clear: both;
 }
 </style>
-h1{
-   font-family: "Segoe UI",Arial,sans-serif;
-  font-weight: 400;
-  margin: 10px 0;
-  text-transform: uppercase;
-  text-align: center;
-  color:white;
-}
-p{
-  font-size:25px;
-  color: white;
-}
-li{
-  font-size:25px;
-  color:white;
-}
+
+
 a{
 color: inherit; 
   text-decoration: none;
