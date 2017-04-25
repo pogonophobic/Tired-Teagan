@@ -3,8 +3,10 @@ body{
   padding: 100px;
 }
 <style>
-h1{
-  font-family: "Montserrat", sans-serif; 
+b{
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
   text-transform: uppercase;
   text-align: center;
 }
