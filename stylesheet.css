@@ -11,7 +11,9 @@ b{
   text-align: center;
 }
 p{
- font-family: "Montserrat", sans-serif; 
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
   text-transform: uppercase;
   text-align: center;
 }
