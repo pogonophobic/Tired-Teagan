@@ -2,6 +2,13 @@ body{
   background-color: rgb(95,122,95);
   padding: 100px;
 }
+.topnav{
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-weight: 100;
+  margin: 20px 0;
+  text-transform: uppercase;
+  color:white;
+}
 h1{
   font-family: "Segoe UI",Arial,sans-serif;
   font-weight: 200;
