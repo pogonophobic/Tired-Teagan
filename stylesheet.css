@@ -42,7 +42,7 @@ body{
 .container:hover .middle {
   opacity: 1;
 }
-.back{
+back{
 z-index:-1;  
 }
 .text {
