@@ -42,11 +42,8 @@ body{
 .container:hover .middle {
   opacity: 1;
 }
-img {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
+.back{
+z-index:-1;  
 }
 .text {
   background-color: #4CAF50;
