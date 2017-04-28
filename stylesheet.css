@@ -143,6 +143,7 @@ color: inherit;
 .topnav {
     background-color: #333;
     overflow: hidden;
+  width:100%;
 }
 
 /* Style the links inside the navigation bar */
@@ -168,5 +169,5 @@ color: inherit;
     color: white;
 }
 footer{
-position="center"
+
 }
