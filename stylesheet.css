@@ -15,7 +15,9 @@ body{
     position: relative;
     width: 50%;
 }
-
+.poop{
+margin: auto;
+}
 .image {
   opacity: 1;
   display: block;
